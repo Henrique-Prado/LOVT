@@ -1,0 +1,236 @@
+#content{ width: 900px; margin: 0 auto;}
+
+header 
+    {
+    width: 900px;
+    height: 60px;
+    box-shadow: 0px 2px 6px gray;
+    }
+
+.head
+{
+    display: flex;
+}
+
+.logo
+{
+    display: flex;
+    padding-top: 18px;
+    padding-left: 40px;
+}
+
+.logo2
+{
+    display: flex;
+    padding-top: 18px;
+    padding-left: 3px;
+}
+  
+.nav
+{
+    padding-top: 22px;
+    padding-left: 700px;
+}
+
+main 
+{
+    padding-top: 20px;
+    padding-left: 45px;
+}
+
+.banner
+{
+    width: 800px;
+    height: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../IMG/Rectangle\ 3.png');
+    background-size: 800px;
+    
+}
+
+.el1
+{
+    padding: 330px;
+    position: relative;
+}
+
+.el2
+{
+    padding: 330px;
+    position: relative;
+}
+
+.v1
+{
+    padding-left: 700px;
+    position: absolute;
+    
+}
+
+.v2
+{
+    padding-right: 700px;
+    position: absolute;
+}
+
+.central
+{
+    width: 800px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.new
+{
+    width: 330px;
+    height: 305px;
+    background-color: lightgray;
+}
+
+
+.sale
+{
+    width: 330px;
+    height: 305px;
+    background-color: lightgray
+}
+
+.ape
+{
+    padding-bottom: 10px;
+}
+
+.house
+{
+    padding-bottom: 10px;
+}
+
+.price
+{
+    padding-left: 15px;
+}
+
+.b1
+{
+    padding-left: 180px;
+    padding-top: 5px;
+    position: absolute;
+}
+
+.green
+{
+    padding-left: 170px;
+
+}
+
+.text
+{
+    padding-left:15px;
+    padding-top: 15px;
+}
+
+.price2
+{
+    padding-left: 15px;
+}
+
+.b2
+{
+    padding-left: 180px;
+    padding-top: 5px;
+    position: absolute;
+}
+
+.orange
+{
+    padding-left: 170px;
+
+}
+
+.text2
+{
+    padding-left:15px;
+    padding-top: 15px;
+}
+
+.sty
+{
+    padding-top: 50px;
+    padding-bottom: 40px;
+  
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+
+.ind
+{
+    position: absolute;
+    padding-left: 340px;
+    padding-top: 35px;
+}
+
+.mod
+{
+    position: absolute;
+    padding-left: 350px;
+    padding-top: 35px;
+}
+
+.clas
+{
+    position: absolute;
+    padding-left: 360px;
+    padding-top: 35px;
+}
+
+.sty1
+{
+    padding-bottom: 15px;
+}
+
+.sty2
+{
+    padding-bottom: 15px;
+}
+
+footer
+{
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    background-color: rgb(48, 46, 46);
+}
+
+.bot
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info
+{
+    display: flexbox;
+    padding-right: 120px;
+   padding-top: 40px;
+}
+
+.end
+{
+    display: flexbox;
+    padding-right: 60px;
+}
+
+.map
+{
+    display: flex;
+    padding-left: 60px;
+}
